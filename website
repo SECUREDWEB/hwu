@@ -1,1 +1,1 @@
-<iframe src="<iframe src="https://sites.google.com/view/securedweb" name="myIFrame" scrolling="no" width="100%" height="100%" style="border: solid #000000;"></iframe>" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe>
+<iframe src="https://www.w3schools.com" title="W3Schools Free Online Web Tutorials"></iframe>
