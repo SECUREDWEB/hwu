@@ -1,2 +1,1 @@
-<blockquote class="embedly-card"><h4><a href="https://sites.google.com/view/securedweb">Google Classroom</a></h4><p>THANK YOU GUYS FOR</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+<iframe src="https://sites.google.com/view/securedweb" style="border:0px #ffffff none;" name="myiFrame" scrolling="yes" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe>
